@@ -1,0 +1,49 @@
+% Encoding: UTF-8
+
+@Article{askitas2009google,
+  author    = {Askitas, Nikos and Zimmermann, Klaus F.},
+  title     = {{Google econometrics and unemployment forecasting}},
+  year      = {2009},
+  publisher = {DIW Berlin Discussion Paper},
+  url       = {https://www.econstor.eu/bitstream/10419/35733/1/605353115.pdf},
+}
+
+@Article{vicente2015forecasting,
+  author    = {Vicente, Mar{\'\i}a Rosal{\'\i}a and L{\'o}pez-Men{\'e}ndez, Ana J. and P{\'e}rez, Rigoberto},
+  journal   = {Technological Forecasting and Social Change},
+  title     = {{Forecasting unemployment with internet search data: Does it help to improve predictions when job destruction is skyrocketing?}},
+  year      = {2015},
+  pages     = {132--139},
+  volume    = {92},
+  publisher = {Elsevier},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0040162514003904},
+}
+
+@Article{urdal2006clash,
+  author    = {Urdal, Henrik},
+  journal   = {International studies quarterly},
+  title     = {{A clash of generations? Youth bulges and political violence}},
+  year      = {2006},
+  number    = {3},
+  pages     = {607--629},
+  volume    = {50},
+  publisher = {Blackwell Publishing Inc Malden, USA},
+  url       = {https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.4794&rep=rep1&type=pdf},
+}
+
+@Article{pavlivcek2014google,
+  author    = {Pavl{\'\i}{\v{c}}ek, Jaroslav},
+  title     = {{Google Econometrics: Unemployment in Visegrad Countries}},
+  year      = {2014},
+  publisher = {Univerzita Karlova, Fakulta soci{\'a}ln{\'\i}ch v{\v{e}}d},
+  url       = {https://dspace.cuni.cz/bitstream/handle/20.500.11956/68309/BPTX_2012_2_11230_0_356342_0_137288.pdf?sequence=1},
+}
+
+@Article{francesco2009predicting,
+  author = {Francesco, D'Amuri},
+  title  = {{Predicting unemployment in short samples with internet job search query data}},
+  year   = {2009},
+  url    = {https://mpra.ub.uni-muenchen.de/18403/1/MPRA_paper_18403.pdf},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
